@@ -6,4 +6,4 @@ Built with Python, Flask, and Bootstrap 4
 
 # Demo 
 
-TODO
+[![Finance Demo](demo/financedemo.png)](https://www.youtube.com/watch?v=F2T2aYjjnoM)
